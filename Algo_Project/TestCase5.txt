@@ -1,0 +1,10 @@
+T(5x5)
+A,B,C,D,E,
+F,A,H,I,J,
+K,L,A,N,O,
+P,Q,R,A,T,
+U,V,W,X,A
+
+A
+
+5

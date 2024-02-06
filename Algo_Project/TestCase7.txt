@@ -1,0 +1,13 @@
+T(8x8)
+A,B,C,D,E,F,G,L,
+C,D,J,K,L,M,N,Y,
+O,A,B,R,S,T,U,I,
+V,A,B,A,B,E,F,O,
+G,H,I,C,D,L,M,Z,
+N,O,P,Q,R,A,B,P,
+U,V,A,B,C,C,D,X,
+K,M,L,W,E,Q,Q,C
+
+ABCD
+
+2

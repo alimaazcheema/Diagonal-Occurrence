@@ -1,0 +1,13 @@
+T(8x8)
+A,B,A,B,B,A,D,A,
+A,C,D,A,A,B,B,V,
+C,D,G,B,A,H,K,B,
+G,I,K,C,D,V,F,R,
+Y,B,J,G,D,B,A,V,
+H,K,G,D,W,C,D,B,
+K,C,D,E,C,C,A,B,
+X,Q,R,T,U,O,F,G
+
+BACD
+
+3
